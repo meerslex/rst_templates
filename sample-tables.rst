@@ -1,6 +1,7 @@
 My skillset
 ##################################
 .. only:: Administrators
+
 .. list-table::
    :widths: 25 25
    :header-rows: 1
@@ -13,6 +14,7 @@ My skillset
      - Autosys
   
   .. only:: End Users
+  
      .. list-table::
    :widths: 25 25 50
    :header-rows: 1
