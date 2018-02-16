@@ -7,7 +7,7 @@ My skillset
 
    * - Databases
      - Tools
-   * - Row 2, column 1
-     - Row 2, column 2
-   * - Row 3, column 1
-     - Row 3, column 2
+   * - Oracle
+     - Ab Initio
+   * - SQL Server
+     - Autosys
