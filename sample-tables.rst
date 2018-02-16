@@ -1,9 +1,11 @@
-.. list-table::
-   :widths: 25 25 50
-   :header-rows: 1
    
    Hashtag Types
    ***************
+   
+.. list-table::
+   :widths: 25 25 50
+   :header-rows: 1
+
 
    * - Heading row 1, column 1
      - Heading row 1, column 2
