@@ -1,3 +1,6 @@
+This is a sample for tables
+##################################
+
 .. list-table::
    :widths: 25 25 50
    :header-rows: 1
